@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_map"
+        android:icon="@drawable/realtime_map"
+        android:title="실시간 지도"/>
+    <item
+        android:id="@+id/action_mark"
+        android:icon="@drawable/position"
+        android:title="마커구역"/>
+    <item
+        android:id="@+id/action_record"
+        android:icon="@drawable/record"
+        android:title="지난기록"/>
+</menu>
